@@ -1,0 +1,11 @@
+#navbar {
+  color: red;
+  width: 20%;
+}
+
+@media screen and (min-width: 768px) {
+  #navbar {
+    float: left;
+    clear: both;
+  }
+}
